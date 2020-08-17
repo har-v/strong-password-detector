@@ -1,6 +1,6 @@
 '''
 Strong password checker.
-Copies strong passwords to the clipboard.
+Copies the strong password to the clipboard.
 '''
 
 import re
