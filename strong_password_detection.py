@@ -1,9 +1,10 @@
-import re
-import pyperclip
 '''
 Strong password checker.
 Copies strong passwords to the clipboard.
 '''
+
+import re
+import pyperclip
 
 # At least 1: lowercase letter, uppercase letter, special character and digit.
 # Min. 8 character length.
